@@ -1,6 +1,0 @@
-[
-  { "id": "frankfurt",     "name": "Frankfurt (Römer)",           "latDeg": 50.1106, "lonDeg": 8.6821, "heightM": 0 },
-  { "id": "mannheim",      "name": "Mannheim (Wasserturm)",       "latDeg": 49.4840, "lonDeg": 8.4757, "heightM": 0 },
-  { "id": "aschaffenburg", "name": "Aschaffenburg (Schloss)",     "latDeg": 49.9754, "lonDeg": 9.1422, "heightM": 0 },
-  { "id": "saarbruecken",  "name": "Saarbrücken",                 "latDeg": 49.2354, "lonDeg": 6.9969, "heightM": 0 }
-]
