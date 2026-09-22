@@ -1,0 +1,23 @@
+[
+  {
+    "id": "brandenburg-gate",
+    "name": "Brandenburger Tor",
+    "latDeg": 52.516275,
+    "lonDeg": 13.377704,
+    "heightM": 0
+  },
+  {
+    "id": "reichstag",
+    "name": "Reichstagsgebäude",
+    "latDeg": 52.518623,
+    "lonDeg": 13.376198,
+    "heightM": 0
+  },
+  {
+    "id": "tv-tower",
+    "name": "Fernsehturm Berlin",
+    "latDeg": 52.520806,
+    "lonDeg": 13.409419,
+    "heightM": 0
+  }
+]
