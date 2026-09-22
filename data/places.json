@@ -1,23 +1,6 @@
 [
-  {
-    "id": "brandenburg-gate",
-    "name": "Brandenburger Tor",
-    "latDeg": 52.516275,
-    "lonDeg": 13.377704,
-    "heightM": 0
-  },
-  {
-    "id": "reichstag",
-    "name": "Reichstagsgebäude",
-    "latDeg": 52.518623,
-    "lonDeg": 13.376198,
-    "heightM": 0
-  },
-  {
-    "id": "tv-tower",
-    "name": "Fernsehturm Berlin",
-    "latDeg": 52.520806,
-    "lonDeg": 13.409419,
-    "heightM": 0
-  }
+  { "id": "frankfurt",     "name": "Frankfurt (Römer)",           "latDeg": 50.1106, "lonDeg": 8.6821, "heightM": 0 },
+  { "id": "mannheim",      "name": "Mannheim (Wasserturm)",       "latDeg": 49.4840, "lonDeg": 8.4757, "heightM": 0 },
+  { "id": "aschaffenburg", "name": "Aschaffenburg (Schloss)",     "latDeg": 49.9754, "lonDeg": 9.1422, "heightM": 0 },
+  { "id": "saarbruecken",  "name": "Saarbrücken",                 "latDeg": 49.2354, "lonDeg": 6.9969, "heightM": 0 }
 ]
